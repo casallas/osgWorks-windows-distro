@@ -1,0 +1,27 @@
+osgWorks Windows Distribution
+===================================
+Built by [Juan Sebastian Casallas](casallas@iastate.edu)
+Upstream project page: [osgWorks](http://code.google.com/p/osgworks/)
+
+Build Information
+=================
+* Visual Studio 9 (2008)
+
+* osgWorks [2.0](http://osgworks.googlecode.com/files/osgWorks_02_00_00.zip)
+
+* Debug and Release builds.
+
+* 32-bit
+
+* Built with (OpenSceneGraph 3.0.1 x86-32 Alpha Pixel Release Binaries)[http://openscenegraph.alphapixel.com/sites/default/files/osgdownload/3.0.1/OpenSceneGraph-3.0.1-VS9.0.30729-x86-release-12741.7z]
+
+### CMake Build Options
+
+* Built without Boost Diagnostics
+
+* Built without Direct Input
+
+
+Disclaimer
+==========
+The "distributor" by no means affiliated  with osgWorks. For details about osgBullet, including licensing go to http://code.google.com/p/osgworks/
